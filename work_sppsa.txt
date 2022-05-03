@@ -1,0 +1,137 @@
+ `
+
+
+              <!-- Force next columns to break to new line -->
+              <!-- <div style="height:0px;padding: 0%;margin: 0%;" class="w-100"></div> -->
+
+              <div style="padding: 0%;margin: 0%;" class="col-lg-6 col-md-12 col-sm-12">
+                <img class=" p-0 m-0 w-100" src="./images/staranise-2.jpg" alt="">
+                <h2 class="imghead" style="position: relative; top: 68%;color: white;left: 54%;text-align: center;">Up
+                  to <b>5% Off</b> <br> Star Anise</h2>
+                <button class="shopbutton21"><b>SHOP NOW</b></button>
+              </div>
+
+              <div style="padding: 0%;margin: 0%;" class="col-lg-6 col-md-12 col-sm-12">
+                <img class=" p-0 m-0 w-100" src="./images/coriander.jpg" alt="">
+                <h2 style="position: relative; top: 68%;color: white;left: 76%;text-align: center;">Up to <b>10% Off</b>
+                  <br>
+                  Coriander</h2>
+                <button class="shopbutton22"><b>SHOP NOW</b></button>
+              </div>
+         
+
+
+
+--------------------------today------------------------------------
+
+ <div style="margin-left: 0%;margin-right: 0%;padding: 0%;justify-content: space-around;display: flex;"
+          class="col-lg-6 col-md-12 col-sm-12 w-30">
+          <!-- <div style="margin: 0%;padding: 0%;justify-content: space-around;" class="container"> -->
+          <!-- <div style=" padding: 0%;margin: 0%;justify-content: space-around;" class="row"> -->
+          <!-----------------------image11---------------------------------->
+          <div
+            style="padding: 0%; margin: 0%;border: 2px solid;justify-content: space-around;flex: 50%;
+            padding: 0 4px;position: relative;background-image:url(./images/cardamom-1.jpg) ;background-size: cover;"
+            class="col-lg-6 col-md-6 col-sm-12">
+            <!-- <img class=" p-0 m-0 w-100" src="./images/cardamom-1.jpg" alt=""> -->
+            <h2 style="position: relative;top: 50%; color: white;text-align: center;padding: 0%;margin: auto;">Up
+              to <b>10% Off</b><br>Cardamom</h2>
+            <button class="shopbutton11"><b>SHOP NOW</b></button>
+          </div>
+          <!-------------------image12--------------------------------------->
+          <div
+            style="padding: 0%;margin: 0%;position: relative;border: 2px solid;justify-content: space-around;background-image: url(./images/cinamon-1.jpg);background-size: cover;"
+            class="col-lg-6 col-md-12 col-sm-12">
+            <!-- <img class="p-0 m-0 w-100 attachment-full size-full " src="./images/cinamon-1.jpg" alt=""> -->
+            <h2 style="position: relative; top:50%;color: white;margin: auto;text-align: center;">Up to <b>5% Off</b>
+              <br>Cinnamon
+            </h2>
+            <button class="shopbutton12"><b>SHOP NOW</b></button>
+          </div> 
+          <!-------------------image21--------------------------------------->
+          <div
+          style="padding: 0%;margin: 0%;position: relative;border: 2px solid;justify-content: space-around;background-image: url(./images/cinamon-1.jpg);background-size: cover;"
+          class="col-lg-6 col-md-12 col-sm-12">
+          <!-- <img class="p-0 m-0 w-100 attachment-full size-full " src="./images/cinamon-1.jpg" alt=""> -->
+          <h2 style="position: relative; top:50%;color: white;margin: auto;text-align: center;">Up to <b>5% Off</b>
+            <br>Cinnamon
+          </h2>
+          <button class="shopbutton12"><b>SHOP NOW</b></button>
+        </div>
+          
+          <!-------------------image22--------------------------------------->
+          <div
+            style="padding: 0%;margin: 0%;position: relative;border: 2px solid;justify-content: space-around;background-image: url(./images/cinamon-1.jpg);background-size: cover;"
+            class="col-lg-6 col-md-12 col-sm-12">
+            <!-- <img class="p-0 m-0 w-100 attachment-full size-full " src="./images/cinamon-1.jpg" alt=""> -->
+            <h2 style="position: relative; top:50%;color: white;margin: auto;text-align: center;">Up to <b>5% Off</b>
+              <br>Cinnamon
+            </h2>
+            <button class="shopbutton12"><b>SHOP NOW</b></button>
+          </div>
+
+
+        </div>
+
+
+
+
+
+
+          <!-------card 1-------------->
+          <div class="card" style="width: 18rem;height: 30rem;">
+            <img src="./images/Cardamom-6mm-500g-250x250.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Cardamom</h5>
+              <p class="card-text">Rs.880 only</p>
+              <a href="#" class="btn btn-primary">SHOP NOW</a>
+            </div>
+          </div>
+          <!-------card 2-------------->
+          <div class="card" style="width: 18rem;height: 30rem;">
+            <img src="./images/./Cinnamon-250x250.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Cinnamon</h5>
+              <p class="card-text">Rs.220 only</p>
+              <a href="#" class="btn btn-primary">SHOP NOW</a>
+            </div>
+          </div>
+          <!-------card 3-------------->
+          <div class="card" style="width: 18rem;height: 30rem;">
+            <img src="./images/whole-chilli-1kg-250x250.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">chilli</h5>
+              <p class="card-text">Rs.130 only</p>
+              <a href="#" class="btn btn-primary">SHOP NOW</a>
+            </div>
+          </div>
+          <!-------card 4-------------->
+          <div class="card" style="width: 18rem;height: 30rem;">
+            <img src="" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+              <a href="#" class="btn btn-primary">SHOP NOW</a>
+            </div>
+          </div>
+
+
+I needed to made a gift and was at wit’s end on what to give as gift. It was then I remembered that my friends were avid cooking enthusiasts. There would be nothing better than getting them fresh spices… because  knew they would love it. I ordered from spicemunnar… they kept thanking me many times..
+
+
+ <h3 style="font-size: xx-large;"><b>What People Say</b></h3>
+          <hr style="width: 10%;margin: auto;height: 2px; border-color: green;
+          background-color:  green;
+          color: green;">
+          <p style="font-weight: 300;margin: 1% auto;text-align: justify;font-size: medium;">I needed to made a gift and was at wit’s end
+            on what to give as gift. It was then I remembered that my friends were avid cooking enthusiasts. There would
+            be nothing better than getting them fresh spices… because knew they would love it. I ordered from
+            spicemunnar… they kept thanking me many times..</p>
+            <h5 style="font-weight: 300;font-size:large;" >Kumar,Maharashtra</h5> 
+
+
+
+The orders we got so fast, we were surprised actually. The flavors of the spices were simple super, I mean you should taste the curries we made, youknow even my husband’s parents praised my cooking ha ha ha.
+
+<a href="#" onclick="return false;" target="_parent" class="black s7upf_1649775192" tabindex="0">Jonathan C., Nainital</a>
